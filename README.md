@@ -1,4 +1,4 @@
-# Analyse des donnée d'un restaurant de sushi 
+# Analyse des données d'un restaurant de sushi 
 
 
 ## Objectif
