@@ -6,7 +6,7 @@
 Analyser 10 ans de données d'un restaurant de sushi pour identifier les facteurs qui influent sur les revenus et les reviews des clients.
 
 ## Visualisation des tables de données via SQL Design
-[Visualisation des tables de données](Visualisation%20des%20tables%20de%20données.png)
+![Visualisation des tables de données](Visualisation%20des%20tables%20de%20donn%C3%A9es.png)
 
 ## Key Insights
 - Weekend sales are higher
