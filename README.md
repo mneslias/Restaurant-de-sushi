@@ -29,9 +29,7 @@ role — job title: Head Chef, Sous Chef, Sushi Chef, Server, Delivery Driver, o
 ![Visualisation des tables de données](Visualisation%20des%20tables%20de%20donn%C3%A9es.png)
 
 ## Key Insights
-- Weekend sales are higher
-- Discounts reduce profit margin
-- Top products identified
+
 
 ## Dashboard
 (lien à venir)
