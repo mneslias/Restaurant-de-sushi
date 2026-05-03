@@ -6,7 +6,7 @@
 Analyser 10 ans de données d'un restaurant de sushi pour identifier les facteurs qui influent sur les revenus et les reviews des clients.
 
 ## Visualisation des tables de données via SQL Design
-(IMAGE)
+(Image)
 
 ## Key Insights
 - Weekend sales are higher
@@ -14,7 +14,7 @@ Analyser 10 ans de données d'un restaurant de sushi pour identifier les facteur
 - Top products identified
 
 ## Dashboard
-(link)
+(lien à venir)
 
 ## SQL Queries
 Explication des requêtes effectuées dans Big Query
