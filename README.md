@@ -31,28 +31,28 @@ role — job title: Head Chef, Sous Chef, Sushi Chef, Server, Delivery Driver, o
 ## Key Insights
 
 ## SQL Queries
-###Vue d’ensemble de l’analyse
+Vue d’ensemble de l’analyse
 
-1. Performance globale
+1. Performance globale :
 Analyse du chiffre d’affaires et du profit
 Évolution dans le temps (mensuelle, annuelle)
 Identification des périodes de forte activité
 
-2. Analyse clients
+2. Analyse clients :
 Segmentation des clients
 Panier moyen
 Comparaison clients locaux / non locaux
 
-3. Analyse produits
+3. Analyse produits :
 Produits les plus vendus
 Produits les plus rentables
 Identification des produits peu performants
 
-4. Satisfaction client
+4. Satisfaction client :
 Analyse des notes et avis
 Impact des évaluations sur le chiffre d’affaires
 
-5. Analyse de la rentabilité
+5. Analyse de la rentabilité :
 Marges
 Impact des remises
 Analyse des coûts
