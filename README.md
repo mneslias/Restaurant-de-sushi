@@ -57,6 +57,7 @@ Marges,
 Impact des remises,
 Analyse des coûts,
 
+Les analyses de chiffre d’affaires sont réalisées à partir de la table orders, tandis que les analyses de profit utilisent la table daily, seule source disponible pour les coûts.
 L’ensemble des requêtes utilisées est disponible dans le dossier /sql.
 
 ## Dashboard
