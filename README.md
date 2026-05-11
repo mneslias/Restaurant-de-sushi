@@ -25,7 +25,7 @@ order_id — links to sushi_orders.csv. date — date the review was submitted. 
 - sushi_staff.csv (11 rows — one row per staff member hired over the 10 years)
 role — job title: Head Chef, Sous Chef, Sushi Chef, Server, Delivery Driver, or Manager. base_hourly_rate_2015 — hourly wage at time of hire in 2015 USD, with actual pay compounding at 2.5% annually. hire_date — date the staff member joined. termination_date — date the staff member left, or None if still employed at end of 2024.
 
-## Visualisation des tables de données via SQL Design
+## Visualisation des tables de données via SQL Designer
 ![Visualisation des tables de données](Visualisation%20des%20tables%20de%20donn%C3%A9es.png)
 
 ## Key Insights
